@@ -1,0 +1,10 @@
+.adminError {
+    color: red;
+    font-weight: bold;
+    display: none;
+}
+
+#toggler {
+    display:block;
+    color: rgb(119, 119, 121) ;
+}
